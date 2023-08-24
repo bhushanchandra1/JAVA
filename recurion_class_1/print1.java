@@ -1,4 +1,4 @@
-package recurion;
+package recurion_class_1;
 import java.util.*;
 public class print1 {
     public static void printing(int n){
